@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning vuejS 
-- 💬 Ask me about Php, Laravel, HTML CSS, JavaScript .
-
+- 🌱 I’m currently learning NextJS   
+- 💬 Ask me about Php(Laravel),ReactNative,ReactJs  
 
 
 <a href="https://github.com/ouhamzalhss">

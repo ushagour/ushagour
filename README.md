@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning NextJS   
-- 💬 Ask me about Laravel,ReactNative,ReactJs,nodeJS
+- 🌱 I’m currently learning MERN STACK  
 
 
 <a href="https://github.com/ouhamzalhss">

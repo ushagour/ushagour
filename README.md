@@ -16,14 +16,6 @@
 
 ---
 
-### 🚀 What I'm Working On
-
-- `📱 Jib o Bi3`: A mobile marketplace app built with React Native and a Node.js backend  
-- `🌐 Dashboard for Jib o Bi3`: Web admin panel to manage listings and users  
-- `📚 Meta React Certificate`: Studying advanced React through Coursera by Meta  
-- `👨‍💻 Personal Projects`: Full-stack apps that solve real-world problems
-
----
 
 ### 🎯 My Goals
 

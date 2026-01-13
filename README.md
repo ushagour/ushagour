@@ -6,31 +6,79 @@
 
 ---
 
-### 🔧 Tech Stack I Use
 
-- **Languages:** JavaScript, TypeScript, Java, SQL  
-- **Mobile/Web:** React Native, React.js, Expo, Tailwind CSS  
-- **Back-end:** Node.js, Express.js, SQLite, PostgreSQL  
-- **Tools & Other:** Git, Docker, Postman, Figma, VS Code  
-- **Learning:** Nest.js, Prisma, Testing (Jest), CI/CD
+```javascript
+const ALI = {
+    pronouns: "He/Him",
+    location: "AFRICA",
+    currentFocus: ["REACT Native", "React.js", "Full-Stack Development"],
+    passions: ["Backend Architecture", ",Mobile Applications", "Clean Code"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
----
+### What I Do
+
+- 💻 **Full-Stack Development** → Building scalable web applications with **Laravel** & **FastAPI** & **React.js**
+- 📱 **MOBIL Applications** → Creating powerful desktop apps with **REACT NATIVE** & **EXPO**
+- 🌱 **Continuous Learning** → Currently mastering **JAVASCRIPT** & **TYPESCRIPT** ecosystems
+- 🔧 **Problem Solving** → Turning complex challenges into elegant solutions
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=javascript,html,css,php,bash,mysql&theme=dark)](https://skillicons.dev)
+
+### Frameworks & Libraries  
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,laravel,flask,fastapi,tailwind,mongodb&theme=dark)](https://skillicons.dev)
+
+### Tools & Technologies
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,vim,figma,ubuntu,vercel&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ouchagour-a810011a0/)
+
+ 💌 Email: ali.ouchagour01@gmail.com  
+ 🌍 Portfolio: (https://ushagor-portflio.netlify.app/)
+
+💬 Let's build something amazing together!
+
+</div>
+
+## 🎯 Current Goals
+
+- 🔥 Master **Java** and **Spring Boot** ecosystem
+- 🌟 Contribute to **open-source** projects
+- 📚 Share knowledge through **Mentoring**
+- 🤝 Collaborate on **innovative** projects
 
 
-### 🎯 My Goals
+<div align="center">
 
-- Land a **remote job or freelance contract** as a React Native/Full-Stack Developer  
-- Improve my architecture, testing, and TypeScript skills  
-- Build and launch my own **SaaS or subscription-based app**  
-- Contribute to open-source and grow with the developer community
+### 💭 Quote of the Day
 
----
+*"The best way to predict the futures is to code it!"* - ABOGO Lincoln
 
-### 📫 Let’s Connect
+### 🙏 Thank You for Visiting!
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/ali-ouchagour-a810011a0/)  
-- 💌 Email: ali.ouchagour01@gmail.com  
-- 🌍 Portfolio: (https://ushagor-portflio.netlify.app/)
+Feel free to explore my repositories and don't hesitate to reach out for collaborations! ✨
+
+⭐ **If you find my work interesting, consider giving it a star!** ⭐
+
+</div>
+
+
+
 
 
 

@@ -55,13 +55,24 @@ const ALI = {
 
 </div>
 
-## 🎯 Current Goals
+##🎯 Current Goals
 
-- 🔥 Master **Java** and **Spring Boot** ecosystem
-- 🌟 Contribute to **open-source** projects
-- 📚 Share knowledge through **Mentoring**
-- 🤝 Collaborate on **innovative** projects
 
+📱 Enhancing mobile app performance and user experience with Expo
+
+🧠 Deepening my knowledge of TypeScript and clean architecture
+
+🐳 Strengthening skills in Docker and modern deployment workflows
+
+⚙️ Designing scalable REST APIs and improving backend security
+
+📊 Applying Agile practices (Scrum, Kanban) in real-world projects
+
+📚 Preparing for an Engineering degree in Computer Science
+
+🌍 Contributing to open-source projects and growing my GitHub presence
+
+🗣️ Improving my technical English for better collaboration
 
 <div align="center">
 
